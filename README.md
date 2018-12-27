@@ -6,4 +6,4 @@
 
 
 To run the script:	
-	python standard_disas.py <<BINARY>>
+	python standard_disas.py <BINARY_Name>
